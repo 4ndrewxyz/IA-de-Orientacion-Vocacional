@@ -4,8 +4,8 @@
 class ChatGPT {
 
     private $api_url = 'https://api.openai.com/v1/chat/completions';
-    private $api_key = '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'; // Your API key
-    private $model = 'ft:gpt-3.5-turbo-0125:personal::A8LNm7jO'; // Your fine-tuned model ID
+    private $api_key = ''; // Your API key
+    private $model = ''; // Your fine-tuned model ID
     private $streamHandler;
     private $question;
     private $dfa = NULL;
