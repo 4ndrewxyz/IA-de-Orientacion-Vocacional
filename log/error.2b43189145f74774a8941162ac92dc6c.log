@@ -1,0 +1,6 @@
+{
+    "i": 2,
+    "line": "Array{\"id\":\"chatcmpl-Aqjz6Fx3JQmM90JBFnxDGUtb7yuoc\",\"object\":\"chat.completion.chunk\",\"created\":1737133184,\"model\":\"ft:gpt-3.5-turbo-0125:personal::A8LNm7jO\",\"service_tier\":\"default\",\"system_fingerprint\":null,\"choices\":[{\"index\":0,\"delta\":{\"role\":\"assistant\",\"content\":\"\",\"refusal\":null},\"logprobs\":null,\"finish_reason\":null}]}",
+    "li": 0
+}
+
